@@ -2,7 +2,7 @@
   ##
 - 👩🏼‍🦰 Pronouns: Ela/Dela;
   
-- 🦾:mortar_board:  Formada em Engenharia Eletrônica e Técnico em Equipamentos Biomédicos;
+- 🦾 Formada em Engenharia Eletrônica e Técnico em Equipamentos Biomédicos;
   
 - 📚 Em formação para ser profissional em Engenharia de Dados e IoT;
   
