@@ -4,7 +4,7 @@
   
 - 🦾 Formada em Engenharia Eletrônica e Técnico em Equipamentos Biomédicos;
   
-- 📚 Em formação para ser profissional em Engenharia de Dados e IoT;
+- 📚 Debravando a Engenharia de Dados e IoT;
   
 - 🤓 Aprendendo sobre:<br>
 
